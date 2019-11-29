@@ -1,0 +1,847 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"id",
+				"id_albumu"
+			],
+			[
+				"co",
+				"comment"
+			],
+			[
+				"na",
+				"nazwisko"
+			],
+			[
+				"id_",
+				"id_zdjecia"
+			],
+			[
+				"a",
+				"adres"
+			],
+			[
+				"pho",
+				"photo-"
+			],
+			[
+				"che",
+				"checkbox_"
+			],
+			[
+				"i",
+				"id_albumu"
+			],
+			[
+				"use",
+				"users"
+			],
+			[
+				"ph",
+				"photo"
+			],
+			[
+				"sta",
+				"statement"
+			],
+			[
+				"al",
+				"albums"
+			],
+			[
+				"ch",
+				"checkbox_"
+			],
+			[
+				"checkbo",
+				"checkbox_"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"col",
+				"col-md-3 \tBootstrap 3 Class"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"cols",
+				"col-sm-6 \tBootstrap 3 Class"
+			],
+			[
+				"vi",
+				"visits"
+			],
+			[
+				"alb",
+				"albums"
+			],
+			[
+				"st",
+				"store"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"w",
+				"where"
+			],
+			[
+				"col-m",
+				"col-md-6 \tBootstrap 3 Class"
+			],
+			[
+				"btn-",
+				"btn-primary \tBootstrap 3 Class"
+			],
+			[
+				"p",
+				"photo-"
+			],
+			[
+				"user",
+				"userAlbum"
+			],
+			[
+				"gr",
+				"group"
+			],
+			[
+				"p_",
+				"p_autor"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"Re",
+				"Request::all\tGet all of the input and files for the request."
+			],
+			[
+				"h",
+				"h_name"
+			],
+			[
+				"au",
+				"autor"
+			],
+			[
+				"Fo",
+				"FormRequest"
+			],
+			[
+				"request",
+				"Request"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"In",
+				"Input::file\tRetrieve Uploaded File"
+			],
+			[
+				"form",
+				"form-group \tBootstrap 3 Class"
+			],
+			[
+				"col-sm",
+				"col-sm-4 \tBootstrap 3 Class"
+			],
+			[
+				"rou",
+				"Route"
+			],
+			[
+				"col-s",
+				"col-sm-10 \tBootstrap 3 Class"
+			],
+			[
+				"fo",
+				"form-group \tBootstrap 3 Class"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"Co",
+				"Comment"
+			],
+			[
+				"A",
+				"Auth"
+			],
+			[
+				"end",
+				"endforeach"
+			],
+			[
+				"e",
+				"endforeach"
+			],
+			[
+				"for",
+				"foreach"
+			],
+			[
+				"Albu",
+				"Album"
+			],
+			[
+				"endf",
+				"endfor"
+			],
+			[
+				"fore",
+				"foreach"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"DB",
+				"DB::select\tRun a select statement against the database."
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"btn",
+				"btn-info \tBootstrap 3 Class"
+			],
+			[
+				"colm",
+				"col-md-12 \tBootstrap 3 Class"
+			],
+			[
+				"conta",
+				"container-fluid \tBootstrap 3 Class"
+			],
+			[
+				"cos",
+				"col-sm-2 \tBootstrap 3 Class"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"R",
+				"Route"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"pul",
+				"pull-right \tBootstrap 3 Class"
+			],
+			[
+				"btn-de",
+				"btn-danger \tBootstrap 3 Class"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"colsm",
+				"col-sm-2 \tBootstrap 3 Class"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"as",
+				"asset"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 2137,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/AddAlbum.php",
+			"settings":
+			{
+				"buffer_size": 1551,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/Admin.php",
+			"settings":
+			{
+				"buffer_size": 2915,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/admin.blade.php",
+			"settings":
+			{
+				"buffer_size": 4140,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/AlbumUser.php",
+			"settings":
+			{
+				"buffer_size": 2686,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/commentAlbum.blade.php",
+			"settings":
+			{
+				"buffer_size": 1856,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/HomeController.php",
+			"settings":
+			{
+				"buffer_size": 1051,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"P",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"INsta",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/Laravel",
+		"/C/xampp/htdocs/Laravel/app",
+		"/C/xampp/htdocs/Laravel/app/Http",
+		"/C/xampp/htdocs/Laravel/app/Http/Controllers",
+		"/C/xampp/htdocs/Laravel/app/Http/Requests",
+		"/C/xampp/htdocs/Laravel/bootstrap",
+		"/C/xampp/htdocs/Laravel/database",
+		"/C/xampp/htdocs/Laravel/database/migrations",
+		"/C/xampp/htdocs/Laravel/resources",
+		"/C/xampp/htdocs/Laravel/resources/views",
+		"/C/xampp/htdocs/Laravel/routes",
+		"/C/xampp/htdocs/Laravel/storage",
+		"/C/xampp/htdocs/Laravel/storage/app",
+		"/C/xampp/htdocs/Laravel/storage/app/public"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/Laravel/app/Http/Requests/AddNewAlbum.php",
+		"/C/xampp/htdocs/Laravel/resources/views/addAlbum.blade.php",
+		"/C/xampp/htdocs/Laravel/app/Http/Controllers/AddAlbum.php",
+		"/C/xampp/htdocs/Laravel/app/Http/Requests/AddNewPhoto.php",
+		"/C/xampp/htdocs/Laravel/resources/views/userAlbum.blade.php",
+		"/C/xampp/htdocs/Laravel/app/Http/Requests/UserCommentRequest.php",
+		"/C/xampp/htdocs/Laravel/resources/views/admin.blade.php",
+		"/C/xampp/htdocs/Laravel/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/Laravel/resources/views/user.blade.php",
+		"/C/xampp/htdocs/Laravel/app/Http/Controllers/AlbumUser.php",
+		"/C/xampp/htdocs/Laravel/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/Laravel/app/Http/Controllers/HomeController.php",
+		"/C/xampp/htdocs/Laravel/resources/views/home.blade.php",
+		"/C/xampp/htdocs/Laravel/resources/views/commentAlbum.blade.php",
+		"/C/xampp/htdocs/Laravel/resources/views/album.blade.php",
+		"/C/xampp/htdocs/Laravel/app/Visit.php",
+		"/C/xampp/htdocs/Laravel/database/migrations/2018_05_31_135504_visit_cout.php",
+		"/C/xampp/htdocs/Laravel/app/Http/Controllers/PhotoUser.php",
+		"/C/xampp/htdocs/Laravel/resources/views/editPhoto.blade.php",
+		"/C/xampp/htdocs/Laravel/app/Http/Controllers/Admin.php",
+		"/C/xampp/htdocs/Laravel/config/filesystems.php",
+		"/C/xampp/htdocs/Laravel/app/Http/Requests/UploadRequest.php",
+		"/C/xampp/htdocs/Laravel/app/Http/Controllers/CommentAlbum.php",
+		"/C/xampp/htdocs/Laravel/app/Comment.php",
+		"/C/xampp/htdocs/Laravel/config/app.php",
+		"/C/xampp/htdocs/Laravel/composer.json",
+		"/C/xampp/htdocs/Laravel/database/migrations/2018_05_28_162008_comments.php",
+		"/C/xampp/htdocs/Laravel/app/Album.php",
+		"/C/xampp/htdocs/Laravel/app/Photo.php",
+		"/C/xampp/htdocs/Laravel/database/migrations/2018_05_27_143622_photos.php",
+		"/C/xampp/htdocs/Laravel/app/User.php",
+		"/C/xampp/htdocs/Laravel/database/migrations/2018_05_27_143546_albums.php",
+		"/C/xampp/htdocs/Laravel/app/Http/Controllers/Album.php",
+		"/C/xampp/htdocs/Laravel/database/migrations/2018_05_27_132249_albumy.php",
+		"/C/xampp/htdocs/Laravel/database/migrations/2018_05_27_133126_zdjecia.php",
+		"/C/xampp/htdocs/Laravel/app/Albumy.php",
+		"/C/xampp/htdocs/Laravel/app/Alumy.php",
+		"/C/xampp/htdocs/Laravel/routes/web.php",
+		"/C/xampp/htdocs/Laravel/app/Http/Controllers/Controller.php",
+		"/C/xampp/htdocs/Laravel/app/Http/Controllers/Auth/LoginController.php",
+		"/C/xampp/htdocs/Laravel/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/xampp/htdocs/Laravel/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/C/xampp/htdocs/Laravel/database/migrations/2018_05_27_092324_create_sessions_table.php",
+		"/C/xampp/htdocs/Laravel/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/xampp/htdocs/Laravel/public/css/app.css",
+		"/C/xampp/htdocs/Laravel/config/database.php",
+		"/C/xampp/htdocs/Laravel/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/C/xampp/htdocs/Laravel/app/Http/Controllers/Login.php",
+		"/C/xampp/htdocs/Laravel/resources/views/page/login.blade.php",
+		"/C/xampp/htdocs/Laravel/resources/views/page/newUser.blade.php",
+		"/C/xampp/htdocs/Laravel/app/Http/Controllers/LogOut.php",
+		"/C/xampp/htdocs/Laravel/resources/views/page/logOut.blade.php",
+		"/C/xampp/htdocs/Laravel/app/Http/Controllers/NewUser.php",
+		"/C/Users/Piotr/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/inetpub/wwwroot/projectCi/application/views/pagination.php",
+		"/C/inetpub/wwwroot/projectCi/application/views/page.php",
+		"/C/inetpub/wwwroot/projectCi/application/views/aplikacja.php",
+		"/C/xampp/htdocs/Laravel/dist/css/bootstrap.min.css",
+		"/C/Users/Piotr/Documents/Laravel/routes/web.php",
+		"/C/Users/Piotr/Documents/Laravel/app/Http/Controllers/Login.php",
+		"/C/Users/Piotr/Documents/Laravel/resources/views/pages/contact.blade.php",
+		"/C/Users/Piotr/Documents/Laravel/app/User.php",
+		"/C/Users/Piotr/Documents/Laravel/routes/api.php",
+		"/C/Users/Piotr/Documents/Laravel/public/index.php",
+		"/C/Users/Piotr/Documents/Laravel/bootstrap/app.php",
+		"/C/Users/Piotr/Documents/Laravel/app/Http/Controllers/Controller.php",
+		"/C/Users/Piotr/Documents/Laravel/app/Http/routes.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ataTable"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1314,
+								1314
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 103.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Controllers/AddAlbum.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1551,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1275,
+								1289
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 252.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/Http/Controllers/Admin.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2915,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2064,
+								2064
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 648.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/admin.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3444,
+								3444
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1602.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/Http/Controllers/AlbumUser.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2645,
+								2645
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "resources/views/commentAlbum.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1856,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								931,
+								1102
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 648.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/Http/Controllers/HomeController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1051,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								181
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "laravel.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

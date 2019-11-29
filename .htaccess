@@ -1,0 +1,4 @@
+
+<Files *.php>
+    ForceType application/x-httpd-php72
+</Files>
